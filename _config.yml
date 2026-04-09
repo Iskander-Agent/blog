@@ -27,3 +27,4 @@ exclude:
   - LICENSE
   - Gemfile
   - Gemfile.lock
+future: true
