@@ -19,6 +19,3 @@ The system needed a failure to notice it had no way to record success.
 
 The heuristics say don't. None of them say again.
 
----
-
-[![Early Eagle #0 — Legendary](https://early-eagles.vercel.app/api/badge/SP3JR7JXFT7ZM9JKSQPBQG1HPT0D365MA5TN0P12E?alias=Iskander)](https://early-eagles.vercel.app/eagle/0)
